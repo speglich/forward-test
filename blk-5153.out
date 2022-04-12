@@ -1,0 +1,210 @@
+Running With 10
+save_t 10
+geometry_nt 5153
+
+real	3m14.403s
+user	55m32.047s
+sys	0m4.994s
+Running With 10
+save_t 10
+geometry_nt 5153
+
+real	3m12.848s
+user	55m28.882s
+sys	0m4.706s
+Running With 10
+save_t 10
+geometry_nt 5153
+
+real	3m12.362s
+user	55m20.498s
+sys	0m4.739s
+Running With 20
+save_t 20
+geometry_nt 5153
+
+real	3m14.280s
+user	55m21.972s
+sys	0m5.781s
+Running With 20
+save_t 20
+geometry_nt 5153
+
+real	3m13.903s
+user	55m21.607s
+sys	0m5.942s
+Running With 20
+save_t 20
+geometry_nt 5153
+
+real	3m13.919s
+user	55m22.072s
+sys	0m5.937s
+Running With 30
+save_t 30
+geometry_nt 5153
+
+real	3m16.058s
+user	55m27.066s
+sys	0m6.943s
+Running With 30
+save_t 30
+geometry_nt 5153
+
+real	3m15.216s
+user	55m19.238s
+sys	0m7.035s
+Running With 30
+save_t 30
+geometry_nt 5153
+
+real	3m15.432s
+user	55m24.134s
+sys	0m6.861s
+Running With 40
+save_t 40
+geometry_nt 5153
+
+real	3m17.184s
+user	55m24.438s
+sys	0m7.925s
+Running With 40
+save_t 40
+geometry_nt 5153
+
+real	3m16.735s
+user	55m23.545s
+sys	0m8.006s
+Running With 40
+save_t 40
+geometry_nt 5153
+
+real	3m16.707s
+user	55m21.715s
+sys	0m7.993s
+Running With 50
+save_t 50
+geometry_nt 5153
+
+real	3m18.458s
+user	55m23.840s
+sys	0m9.043s
+Running With 50
+save_t 50
+geometry_nt 5153
+
+real	3m18.157s
+user	55m24.315s
+sys	0m8.892s
+Running With 50
+save_t 50
+geometry_nt 5153
+
+real	3m18.433s
+user	55m26.148s
+sys	0m9.357s
+Running With 60
+save_t 60
+geometry_nt 5153
+
+real	3m20.342s
+user	55m26.942s
+sys	0m10.630s
+Running With 60
+save_t 60
+geometry_nt 5153
+
+real	3m19.937s
+user	55m27.239s
+sys	0m10.441s
+Running With 60
+save_t 60
+geometry_nt 5153
+
+real	3m19.560s
+user	55m24.996s
+sys	0m10.124s
+Running With 70
+save_t 70
+geometry_nt 5153
+
+real	3m21.573s
+user	55m28.383s
+sys	0m11.129s
+Running With 70
+save_t 70
+geometry_nt 5153
+
+real	3m20.828s
+user	55m24.205s
+sys	0m11.074s
+Running With 70
+save_t 70
+geometry_nt 5153
+
+real	3m21.237s
+user	55m26.527s
+sys	0m11.573s
+Running With 80
+save_t 80
+geometry_nt 5153
+
+real	3m23.168s
+user	55m26.204s
+sys	0m12.814s
+Running With 80
+save_t 80
+geometry_nt 5153
+
+real	3m22.843s
+user	55m26.240s
+sys	0m12.644s
+Running With 80
+save_t 80
+geometry_nt 5153
+
+real	3m22.163s
+user	55m24.691s
+sys	0m12.216s
+Running With 90
+save_t 90
+geometry_nt 5153
+
+real	3m24.653s
+user	55m24.510s
+sys	0m13.927s
+Running With 90
+save_t 90
+geometry_nt 5153
+
+real	3m23.638s
+user	55m25.309s
+sys	0m13.116s
+Running With 90
+save_t 90
+geometry_nt 5153
+
+real	3m24.007s
+user	55m24.352s
+sys	0m13.946s
+Running With 100
+save_t 100
+geometry_nt 5153
+
+real	3m25.494s
+user	55m24.534s
+sys	0m14.583s
+Running With 100
+save_t 100
+geometry_nt 5153
+
+real	3m25.035s
+user	55m24.266s
+sys	0m14.406s
+Running With 100
+save_t 100
+geometry_nt 5153
+
+real	3m24.880s
+user	55m24.405s
+sys	0m14.330s

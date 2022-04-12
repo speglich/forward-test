@@ -1,0 +1,21 @@
+Running With 10
+save_t None
+geometry_nt 5153
+
+real	3m13.081s
+user	55m28.001s
+sys	0m4.187s
+Running With 10
+save_t None
+geometry_nt 5153
+
+real	3m12.579s
+user	55m40.696s
+sys	0m3.960s
+Running With 10
+save_t None
+geometry_nt 5153
+
+real	3m11.692s
+user	55m23.050s
+sys	0m3.890s
